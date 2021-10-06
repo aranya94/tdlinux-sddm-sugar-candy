@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=ArcoLinux Sugar Candy
+Name=TDLinux Sugar Candy
 Description=Premium Sugar for SDDM
 Author=Marian Arlt
 Copyright=Copyright (C) 2018 Marian Arlt
@@ -12,5 +12,5 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=marianarlt@icloud.com
-Theme-Id=arcolinux-sugar-candy
+Theme-Id=tdlinux-sugar-candy
 Theme-API=2.11
